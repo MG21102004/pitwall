@@ -1,0 +1,31 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+
+.venv/
+venv/
+
+# Race data — never commit large datasets
+
+data/
+
+# FastF1 cache
+
+cache/
+.fastf1/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+
+.env
+
+# Editor settings
+
+.vscode/
